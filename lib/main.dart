@@ -10,7 +10,7 @@ void main() {
           color: Color.fromARGB(255, 97, 185, 14),
           child: const Center(
             child: Text(
-              "Hello Flutter!",
+              "Hello Flutter...",
               style: TextStyle(fontSize: 40, color: Colors.white),
             ),
           ),
